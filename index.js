@@ -24,7 +24,7 @@ app.use((req, res, next) => {
 
 // === URLs ===
 const KEITARO_URL =
-  process.env.KEITARO_URL || "https://7win.work/3KPFPB";
+  process.env.KEITARO_URL || "https://metadigital.pro/3KPFPB";
 
 // === Helpers ===
 function normalizeIp(ip) {
